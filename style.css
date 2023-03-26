@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blue;
+}
+.button{
+    text-align: center;
+    margin: 150px;
+}
+a{
+    text-decoration: none;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin: 0 10px;
+}
+a:hover{
+    background-color: yellow;
+    color: blue;
+}
